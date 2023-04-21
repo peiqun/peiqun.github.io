@@ -11053,6 +11053,7 @@ body[data-type="about"] #web_bg {
 } */
 
 .loading-bar {
+  display: none;
   position: absolute;
   top: 50%;
   left: 50%;
